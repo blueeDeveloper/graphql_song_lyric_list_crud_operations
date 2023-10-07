@@ -6,7 +6,7 @@ Starter project from a GraphQL course on Udemy.com
 
 - Run `npm install --legacy-peer-deps` in the root of the project to install dependencies
 - Access the application at `localhost:4000` in your browser
-- Access the graphiQL IDE tool at localhost:4000/graphql
+- Access the graphiQL IDE tool at `localhost:4000/graphql`
 
 ![Song List with add and delete song list feature](https://github.com/blueeDeveloper/graphql_song_lyric_list_crud_operations/assets/79240323/2a702e54-b311-4e52-a5fd-b7b910c3deb1)
 
