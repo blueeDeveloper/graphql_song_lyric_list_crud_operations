@@ -1,2 +1,8 @@
-# graphql_song_lyric_list_crud_operations
-This is a graphql project with songlist and lyric for each song. user can create new songs and add n number of lyrics to a song, perform crud operations on the song anf lytric list. 
+# Lyrical-GraphQL
+
+Starter project from a GraphQL course on Udemy.com
+
+### Setup
+
+- Run `npm install --legacy-peer-deps` in the root of the project to install dependencies
+- Access the application at `localhost:4000` in your browser
